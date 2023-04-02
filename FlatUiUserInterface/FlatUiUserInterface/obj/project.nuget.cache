@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CnYMjZW/agEBDBsUg9qCWP7Y20i9FpSHAzOkfxfJxLj0AE7GX5ty8BnEnTUe7uXwZ6LwEeTT4fGxHp+2VDOhyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\FlatUiUserInterface\\FlatUiUserInterface\\FlatUiUserInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512"
+  ],
+  "logs": []
+}
